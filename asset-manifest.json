@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flashdin-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/flashdin-app/static/js/main.86700718.chunk.js",
+    "main.js.map": "/flashdin-app/static/js/main.86700718.chunk.js.map",
+    "runtime-main.js": "/flashdin-app/static/js/runtime-main.aff19f6f.js",
+    "runtime-main.js.map": "/flashdin-app/static/js/runtime-main.aff19f6f.js.map",
+    "static/js/2.47f5b97b.chunk.js": "/flashdin-app/static/js/2.47f5b97b.chunk.js",
+    "static/js/2.47f5b97b.chunk.js.map": "/flashdin-app/static/js/2.47f5b97b.chunk.js.map",
+    "index.html": "/flashdin-app/index.html",
+    "precache-manifest.f11069d42f4e9481738de4e591592ebe.js": "/flashdin-app/precache-manifest.f11069d42f4e9481738de4e591592ebe.js",
+    "service-worker.js": "/flashdin-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/flashdin-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.47f5b97b.chunk.js.LICENSE.txt": "/flashdin-app/static/js/2.47f5b97b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/flashdin-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff19f6f.js",
+    "static/js/2.47f5b97b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.86700718.chunk.js"
+  ]
+}
